@@ -3,7 +3,6 @@ layout: default
 ---
 
 <style>
-/* Inline CSS that won't block Markdown parsing */
 :root { --bg:#0b0f0c; --fg:#ccffcc; --accent:#00ff66; --muted:#7cff7c; }
 
 /* Global look */
@@ -14,7 +13,7 @@ html, body {
   line-height: 1.7;
 }
 
-/* Catch-all for various GitHub Pages themes so we don't need wrappers */
+/* Catch-all for common GitHub Pages containers */
 :is(.page-content, .post-content, main, article, .markdown-body) {
   color: var(--fg);
   max-width: 820px;
@@ -32,6 +31,7 @@ a:hover { text-decoration: underline; }
 
 /* Headings */
 h1, h2, h3, h4 { color: var(--muted); }
+h1 { text-align: center; }
 
 /* Rules, tables, code */
 hr { border: 0; border-top: 1px solid var(--muted); }
@@ -40,7 +40,8 @@ th, td { border: 1px solid var(--muted); padding: 6px 10px; }
 th { text-align: left; }
 code, pre { background: #061006; color: var(--fg); }
 </style>
-# Hey There! You Made it!
+
+# Challenge Accepted
 
 First off, our group would like to **thank you** for stopping by our booth.
 
@@ -122,9 +123,9 @@ If you’d like to help our hackerspace bring more stuff like this next year —
 
 ## Transparent Pricing
 
-| Item            | Unit Cost | Suggested Price |
-|-----------------|-----------|-----------------|
-| SAO Wall Panels | $0.35     | $10.00          |
-| Electronic Coin | $3.50     | $20.00          |
+| Item                 | Unit Cost | Suggested Price |
+|----------------------|-----------|-----------------|
+| SAO Wall Panels      | $0.35     | $10.00          |
+| Electronic Coin Kit  | $3.50     | $20.00          |
 
 *“Suggested Price” is what we could charge to help recoup R&D and production.*
