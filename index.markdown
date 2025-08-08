@@ -1,5 +1,4 @@
 ---
-title: "Hey There! You Made it!"
 layout: default
 ---
 
@@ -41,6 +40,7 @@ th, td { border: 1px solid var(--muted); padding: 6px 10px; }
 th { text-align: left; }
 code, pre { background: #061006; color: var(--fg); }
 </style>
+# Hey There! You Made it!
 
 First off, our group would like to **thank you** for stopping by our booth.
 
