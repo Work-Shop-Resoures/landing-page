@@ -5,15 +5,15 @@ layout: default
 
 <style>
 :root { --bg:#0b0f0c; --fg:#ccffcc; --accent:#00ff66; --muted:#7cff7c; }
-body { background:var(--bg); color:var(--fg); font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono","Courier New", monospace; line-height:1.7; }
-a { color:var(--accent); text-decoration:none; border-bottom:1px dashed var(--accent); }
+body { background:var(--bg) !important; color:var(--fg) !important; font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono","Courier New", monospace; line-height:1.7; }
+a { color:var(--accent) !important; text-decoration:none; border-bottom:1px dashed var(--accent); }
 a:hover { text-decoration:underline; }
 hr { border:0; border-top:1px solid var(--muted); }
 table { border-collapse:collapse; margin:1rem 0; }
 th, td { border:1px solid var(--muted); padding:6px 10px; }
 code, pre { background:#061006; color:var(--fg); }
 .wrap { max-width: 820px; margin: 2rem auto; padding: 1.25rem 1.5rem; background: rgba(0,0,0,0.25); border:1px solid var(--muted); border-radius:12px; box-shadow: 0 0 0 2px rgba(0,255,102,0.07) inset; }
-h2 { color: var(--muted); }
+h2 { color: var(--muted) !important; }
 </style>
 
 <div class="wrap">
