@@ -114,6 +114,7 @@ If you’d like to help our hackerspace bring more stuff like this next year —
 
 **Payment Options:**
 
+- Cash
 - PayPal
 - Google Pay
 - Venmo
