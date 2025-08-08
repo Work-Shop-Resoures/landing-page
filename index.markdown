@@ -1,146 +1,93 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# Hey There! You Made it! 🎉
 
-layout: home
----
-# PCB Engineering Repository
-
-Welcome to the **PCB Engineering Repository**! This project aims to provide an in-depth guide to designing, building, and understanding printed circuit boards (PCBs). Whether you are a beginner or a seasoned engineer, you'll find valuable insights and resources here.
-
-## Table of Contents
-1. [Iterative Design Theory](#iterative-design-theory)
-2. [C Programming](#c-programming)
-3. [Circuit Design Fundamentals & Theory](#circuit-design-fundamentals--theory)
-4. [PCB Design Fundamentals & Theory](#pcb-design-fundamentals--theory)
-5. [Soldering Fundamentals](#soldering-fundamentals)
-6. [Additional Misc Information](#additional-misc-information)
-7. [Reference List](#reference-list)
+First off, our group would like to **thank you** for stopping by our booth.  
+We're a small hacker space based out of **Nashville, TN**.  
+We love learning, teaching, and engineering new and fun things across all demographics — and we wanted to embody that spirit in our design for this challenge coin, and pass that knowledge on to you!  
 
 ---
 
-## Iterative Design Theory
-Explore the principles of iterative design, focusing on:
-- Prototyping and testing cycles.
-- Design for manufacturability (DFM).
-- Optimizing design through continuous feedback.
+## 🛠 The Coin's Journey
 
-## C Programming
-Understand how to use C programming for embedded systems and PCB projects, including:
-- General coding best practices
-  - Dipping your toes into Data Structures & Algorithms
-  - System Design
-  - Writing Good Tests / Compiling Often
-  - Design Patterns
-- Basics of embedded C.
-- Hardware interfacing.
-- Debugging techniques.
-- Reference materials:
-    - **[Beginner Friendly C Programming Course](https://youtu.be/8STscVFaKXw?si=oduYcniAp_Ho4szN)**
-    - [lots of C reference stuff](http://www.lysator.liu.se/c/index.html)
-    - [Driving Compilers](https://fabiensanglard.net/dc/)
+The challenge coin you see before you is **over a year in the making** — the result of several hundred hours of:
 
-## Circuit Design Fundamentals & Theory
-- **Component Procurement/Sourcing**: Strategies for finding and selecting reliable components.
-  - [EasyEDA Beginner's Tutorial](https://youtu.be/aI2frXzm8EU?si=6-1NU1o8OwS5DINB)
-  - [LCSC Component Library (Directly Connected to EasyEDA WebUI)]()
-- Learn the core concepts of circuit design:
-  - Ohm's Law and Kirchhoff's Laws.
-  - Passive and active components.
-  - Signal integrity and noise considerations.
+- Research & Development  
+- Compiling errors (many, many compiling errors)  
+- Prototyping costs  
+- Graphic design work  
+- Logistical nightmares  
+- …and enough extracted fumes to fog a small apartment  
 
-### Getting Started with Electronics
-- **[An Introduction to Electronics (OpenLearn)](https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/content-section-0)**  
-  A beginner-friendly course introducing fundamental concepts of electronics.
+*(All accomplished by two people.)*
 
-- **[Where Do I Start? (SparkFun)](https://learn.sparkfun.com/tutorials/where-do-i-start/all)**  
-  A guided path for beginners to explore electronics and get hands-on with projects.
-
-### Educational Resources
-- **[Electronics Tutorials](https://www.electronics-tutorials.ws/)**  
-  In-depth tutorials on various electronic concepts, from basics to advanced topics.
-
-- **[All About Circuits](https://www.allaboutcircuits.com/textbook/)**  
-  A free, comprehensive textbook that covers both the theoretical and practical aspects of electronics.
-
-- **[The Ultimate Electronics Book](https://ultimateelectronicsbook.com/)**  
-  A modern and interactive approach to learning about electronics.
-
-- **[Adafruit Learning System](https://learn.adafruit.com/)**  
-  Project-based tutorials and guides for building and understanding electronics.
-
-- [Curious Scientist](https://www.youtube.com/@CuriousScientist/videos)  
-  YouTuber builds small MCU-powered circuits.
-
-- [Dave Jones](https://www.youtube.com/@EEVblog/search?query=design)  
-  YouTuber discusses electronics; here, all videos with "design" in the title.
-
-- [Big Clive](https://www.youtube.com/@bigclivedotcom/videos)  
-  YouTuber tears down and reverse engineers small electronic devices.
-
-- [Carl Bugeja](https://www.youtube.com/@CarlBugeja/videos)  
-  YouTuber designs and builds miscellaneous circuits.
+Each one is **uniquely serialized** and represents what we believe is worth sharing, what's worth ignoring, and — frankly — what looks pretty cool.
 
 ---
 
-## PCB Design Fundamentals & Theory
-Gain insights into PCB design processes:
-- Layer stacking and routing strategies.
-- Thermal management techniques.
-- Industry standards and best practices.
+## ⚖ Why We Can’t Sell It to You
 
-### PCB Design Tools and Guidelines
-- **[Footprint Expert Surface Mount Families PDF](https://www.pcblibraries.com/Products/FPX/UserGuide/download/Footprint%20Expert%20Surface%20Mount%20Families.pdf)**  
-  A detailed guide for creating standardized PCB footprints.
+Between:
 
-- **[CircuitLab](https://www.circuitlab.com/)**  
-  An online tool for designing and simulating electronic circuits.
+- Materials  
+- R&D  
+- Tariffs  
+- Tax law  
+- DefCon laws  
+- …and other fun legalese  
 
-- **[Ladyada's Electronics Resources](https://www.ladyada.net/wiki/)**  
-  A collection of resources curated by Limor "Ladyada" Fried, founder of Adafruit.
+We **cannot** sell these coins.  
+That would be illegal and in clear violation of all the above (in one way or another).
 
 ---
 
-## Soldering Fundamentals
-Master soldering techniques for PCB assembly:
-- Through-hole vs. surface-mount soldering.
-- Proper equipment and tool usage.
-- Tips for rework and repair.
+## 🏴‍☠️ But… This is DefCon
 
-some historical videos from Tektronix (makers of top quality test gear, among other things)
-- [Solder And Its Application In Electrical Assembly 1977](https://youtu.be/yZSveVpgmIM)
-- [Making Quality Circuit Board Repairs 1980](https://youtu.be/jMchFqu3Jx0)
+We dirty hackers are pretty good at stretching, bending, and challenging rules.  
+We’re under no illusion we’re *above* the law (and for legal reasons, we are stating our group does **not** believe we are above the law) — but we do believe in **freedom, knowledge, and creativity**.  
 
-## Additional Misc Information
-A collection of additional tips, tricks, and tools for PCB engineering, including:
-- Recommended software tools.
-- Useful libraries and resources.
-- Community and forum links.
-
-- [tips for circuit board design](https://www.multi-circuit-boards.eu/en/pcb-design-aid/introduction.html)
-
-### Community and Learning Platforms
-- **[Open Community Collaboration Platforms](#)**  
-  *(Placeholder for future links to online forums, maker communities, and collaborative design spaces.)*
-
-## Reference List
-A curated list of resources to deepen your knowledge:
-- Books, papers, and online articles.
-- Tutorials and video guides.
-- Manufacturer datasheets and application notes.
-
-- [low-budget USB, LCD, and touch sensor](https://github.com/cnlohr/ch32v003_3digit_lcd_usb/) using CH32V003
-- [lightweight development environment](https://github.com/cnlohr/ch32v003fun) for CH32V003
-- [another "how to build an e-badge" guide](https://github.com/cnlohr/swadgeguide)
-- [insane MCU-driven tiny decorative blinkies](https://youtu.be/jis1MC5Tm8k)
-- [make a derivative design from an existing PCB](https://youtu.be/Qxn_yGog9Lc)
-- [Explore the fundamentals of electronics with "Circuit Playground," a video series by Adafruit](https://youtube.com/playlist?list=PLjF7R1fz_OOXWHQhEVEI5Jqf18TQRr5Hu)
-
-
+So, we’re giving away these challenge coins **for free**.
 
 ---
 
-### Contributing
-If you have suggestions or resources to add, please submit a pull request or create an issue. We value your input to help this list grow!
+## 📡 The QR Code
+
+The QR code on the challenge coin is **the same** as on the stickers.  
+They all lead to our **Workshop Resources** — where we’ll keep adding content for budding:
+
+- Electrical Engineers  
+- Mechanical Engineers  
+- Computer Engineers  
+- …and anything else we think is worth keeping in one’s back pocket
 
 ---
+
+## 🤫 Keep the Secret
+
+Share this information.  
+Let the cool kids know where you got your shiny new challenge coin…  
+…but don’t spoil the secret of **how** to get it.
+
+---
+
+## 💸 Want to Be Really Cool?
+
+If you’d like to help our hackerspace bring more stuff like this next year — and continue building the backbone of our workshop — you can drop some coin below.  
+*(Only if you want to be really cool, you know.)*
+
+**Payment Options:**
+
+- PayPal  
+- Google Pay  
+- Venmo  
+- CashApp  
+
+---
+
+## 📊 Transparent Pricing
+
+| Item | Unit Cost | Suggested Price |
+|------|-----------|-----------------|
+| SAO Wall Panels | $0.35 | $10 |
+| Electronic Coin | $3.50 | $20 |
+
+*(“Suggested Price” is what we *could* charge to help recoup R&D and production.)*
+
