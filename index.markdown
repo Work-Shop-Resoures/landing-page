@@ -93,18 +93,20 @@ So, we’re giving away these challenge coins **for free**.
 
 ## The QR Code
 
-The QR code on the challenge coin is **the same** as on the stickers. They all lead to our **Workshop Resources** — where we’ll keep adding content for budding:
+The QR code on the challenge coin is **the same** as on the stickers. It leads to our **Workshop Resources** — where we’ll keep adding content for budding:
 
 - Electrical Engineers
 - Mechanical Engineers
 - Computer Engineers
 - Anything else we think is worth keeping in one’s back pocket
 
+The QR Code on the back of the coin will lead to an open-source repository for the coin design. (Please don't judge our firmware)
+
 ---
 
 ## Keep the Secret
 
-Share this information. Let the cool kids know where you got your shiny new challenge coin… but don’t spoil the secret of **how** to get it.
+Share this Knowledge repository. Let the cool kids know where you got your shiny new challenge coin… but don’t spoil the secret of **how** to get it.
 
 ---
 
@@ -115,10 +117,7 @@ If you’d like to help our hackerspace bring more stuff like this next year —
 **Payment Options:**
 
 - Cash
-- PayPal
-- Google Pay
-- Venmo
-- CashApp
+- Venmo: @Alchemmer (Last four digits are 2535, for verification)
 
 ---
 
@@ -126,7 +125,7 @@ If you’d like to help our hackerspace bring more stuff like this next year —
 
 | Item                 | Unit Cost | Suggested Price |
 |----------------------|-----------|-----------------|
-| SAO Wall Panels      | $0.35     | $10.00          |
-| Electronic Coin Kit  | $3.50     | $20.00          |
+| SAO Wall Panels      | $1.35     | $10.00          |
+| Electronic Coin Kit  | $4.50     | $20.00          |
 
 *“Suggested Price” is what we could charge to help recoup R&D and production.*
