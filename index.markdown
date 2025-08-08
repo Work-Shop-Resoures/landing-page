@@ -1,5 +1,5 @@
 ---
-title: "Hey There! You Made it! 🎉"
+title: "Hey There! You Made it!"
 layout: default
 ---
 
@@ -24,7 +24,7 @@ We love learning, teaching, and engineering new and fun things across all demogr
 
 ---
 
-## 🛠 The Coin's Journey
+## The Coin's Journey
 
 The challenge coin you see before you is **over a year in the making** — the result of several hundred hours of:
 
@@ -41,7 +41,7 @@ Each one is **uniquely serialized** and represents what we believe is worth shar
 
 ---
 
-## ⚖ Why We Can’t Sell It to You
+## Why We Can’t Sell It to You
 
 Between:
 
@@ -57,7 +57,7 @@ That would be illegal and in clear violation of all the above (in one way or ano
 
 ---
 
-## 🏴‍☠️ But… This is DefCon
+## But… This is DefCon
 
 We dirty hackers are pretty good at stretching, bending, and challenging rules.  
 We’re under no illusion we’re *above* the law (and for legal reasons, we are stating our group does **not** believe we are above the law) — but we do believe in **freedom, knowledge, and creativity**.  
@@ -66,7 +66,7 @@ So, we’re giving away these challenge coins **for free**.
 
 ---
 
-## 📡 The QR Code
+## The QR Code
 
 The QR code on the challenge coin is **the same** as on the stickers.  
 They all lead to our **Workshop Resources** — where we’ll keep adding content for budding:
@@ -78,7 +78,7 @@ They all lead to our **Workshop Resources** — where we’ll keep adding conten
 
 ---
 
-## 🤫 Keep the Secret
+## Keep the Secret
 
 Share this information.  
 Let the cool kids know where you got your shiny new challenge coin…  
@@ -86,7 +86,7 @@ Let the cool kids know where you got your shiny new challenge coin…
 
 ---
 
-## 💸 Want to Be Really Cool?
+## Want to Be Really Cool?
 
 If you’d like to help our hackerspace bring more stuff like this next year — and continue building the backbone of our workshop — you can drop some coin below.  
 *(Only if you want to be really cool, you know.)*
@@ -100,13 +100,13 @@ If you’d like to help our hackerspace bring more stuff like this next year —
 
 ---
 
-## 📊 Transparent Pricing
+## Transparent Pricing
 
-| Item | Unit Cost | Suggested Price |
-|------|-----------|-----------------|
-| SAO Wall Panels | $0.35 | $10 |
-| Electronic Coin | $3.50 | $20 |
+| Item               | Unit Cost | Suggested Price |
+|--------------------|-----------|-----------------|
+| SAO Wall Panels    | $0.35     | $10.00          |
+| Electronic Coin    | $3.50     | $20.00          |
 
-*(“Suggested Price” is what we *could* charge to help recoup R&D and production.)*
+*(“Suggested Price” is what we could charge to help recoup R&D and production.)*
 
 </div>
