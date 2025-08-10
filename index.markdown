@@ -43,7 +43,7 @@ code, pre { background: #061006; color: var(--fg); }
 
 # Challenge Accepted
 
-First off, our group would like to **thank you** for stopping by our booth.
+First off, our group would like to **thank you** for stopping by our booth. You have completed the challenge by visiting this page. Because of the rules imposed by DefCon, we are not allowed to sell anything at our booth. That being said, we are self-funded and would greatly appreciate donations, trades, and you sharing these resources with anyone you think might benefit from them.
 
 We're a small hacker space based out of **Nashville, TN**.
 
