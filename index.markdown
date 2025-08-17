@@ -76,7 +76,7 @@ code, pre { background: #061006; color: var(--fg); }
 - **Boundary Scan & JTAGs? What are those?** — Richard  
 - **What is Zig? Zig tooling?**  
 - **Home automation exploration** — Matt Virus  
-- **Tigard tooling information** — thanks to the kind stranger who gifted us one (and for the candy!)  
+- **Tigard tooling information** — thanks to the kind stranger who gifted us one! (Us weirdos love taking candy from strangers!) 
 
 ---
 
