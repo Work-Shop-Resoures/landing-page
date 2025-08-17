@@ -5,7 +5,6 @@ layout: default
 <style>
 :root { --bg:#0b0f0c; --fg:#ccffcc; --accent:#00ff66; --muted:#7cff7c; }
 
-/* Global look */
 html, body {
   background: var(--bg);
   color: var(--fg);
@@ -13,7 +12,6 @@ html, body {
   line-height: 1.7;
 }
 
-/* Catch-all for common GitHub Pages containers */
 :is(.page-content, .post-content, main, article, .markdown-body) {
   color: var(--fg);
   max-width: 820px;
@@ -25,15 +23,12 @@ html, body {
   box-shadow: 0 0 0 2px rgba(0,255,102,0.07) inset;
 }
 
-/* Links */
 a { color: var(--accent); text-decoration: none; border-bottom: 1px dashed var(--accent); }
 a:hover { text-decoration: underline; }
 
-/* Headings */
 h1, h2, h3, h4 { color: var(--muted); }
 h1 { text-align: center; }
 
-/* Rules, tables, code */
 hr { border: 0; border-top: 1px solid var(--muted); }
 table { border-collapse: collapse; margin: 1rem 0; width: 100%; }
 th, td { border: 1px solid var(--muted); padding: 6px 10px; }
@@ -41,91 +36,65 @@ th { text-align: left; }
 code, pre { background: #061006; color: var(--fg); }
 </style>
 
-# Challenge Accepted
-
-First off, our group would like to **thank you** for stopping by our booth. You have completed the challenge by visiting this page. Because of the rules imposed by DefCon, we are not allowed to sell anything at our booth. That being said, we are self-funded and would greatly appreciate donations, trades, and you sharing these resources with anyone you think might benefit from them.
-
-We're a small hacker space based out of **Nashville, TN**.
-
-We love learning, teaching, and engineering new and fun things across all demographics — and we wanted to embody that spirit in our design for this challenge coin, and pass that knowledge on to you!
+# Post-DefCon Recap
 
 ---
 
-## The Coin's Journey
+## Things That Were Repaired
 
-The challenge coin you see before you is **over a year in the making** — the result of several hundred hours of:
+### Day 1: Setup Day
+1. Prusa LCD USB Type-A Trace Repair  
+2. Hand-built via for a challenge coin  
 
-- Research & Development
-- Compiling errors (many, many compiling errors)
-- Prototyping costs
-- Graphic design work
-- Logistical nightmares
-- Enough extracted fumes to fog a small apartment
+### Day 2: Start of DefCon
+1. Power supply port and cord for a router  
+2. SAO on DC32 Human badge  
+3. SAO for Maker's Community ×8  
+4. “Next Gen” badge fix  
+5. Aerospace Village badge antenna fix  
+6. Aerospace SAO fix  
+7. Rock SAO accelerometer ×8  
+8. 4 non-electronic human badges glued back together (faceplate)  
+9. Loaded dice (don’t ask)  
+10. Red Team Village “The Dude” badge battery connector  
+11. Flipper (liquid damage, corrosion everywhere) → earned an ultra-rare Bob the Builder pin: *“Can we fix it? No, it’s fucked.”*  
 
-*(All accomplished by two people.)*
+### Day 3: Saturday Shenanigans
+1. A lot of challenge coins (~35)  
+2. Roboto badges  
+3. Hacker Box NFC badges  
 
-Each one is **uniquely serialized** and represents what we believe is worth sharing, what's worth ignoring, and — frankly — what looks pretty cool.
-
----
-
-## Why We Can’t Sell It to You
-
-Between:
-
-- Materials
-- R&D
-- Tariffs
-- Tax law
-- DefCon laws
-- Other fun legalese
-
-We **cannot** sell these coins. That would be illegal and in clear violation of all the above (in one way or another).
-
----
-
-## But… This is DefCon
-
-We dirty hackers are pretty good at stretching, bending, and challenging rules. We’re under no illusion we’re *above* the law (and for legal reasons, we are stating our group does **not** believe we are above the law) — but we do believe in **freedom, knowledge, and creativity**.
-
-So, we’re giving away these challenge coins **for free**.
+### Day 4: Closing Day
+1. Glasses with glue  
+2. BCD wristwatch  
+3. Remaining challenge coins (~50)  
 
 ---
 
-## The QR Code
-
-The QR code on the challenge coin is **the same** as on the stickers. It leads to our **Workshop Resources** — where we’ll keep adding content for budding:
-
-- Electrical Engineers
-- Mechanical Engineers
-- Computer Engineers
-- Anything else we think is worth keeping in one’s back pocket
-
-The QR Code on the back of the coin will lead to an open-source repository for the coin design. (Please don't judge our firmware)
+## Questions Asked by the Community
+- **How do you get started with a lighting series for cosplay?** — Brent  
+- **Boundary Scan & JTAGs? What are those?** — Richard  
+- **What is Zig? Zig tooling?**  
+- **Home automation exploration** — Matt Virus  
+- **Tigard tooling information** — thanks to the kind stranger who gifted us one (and for the candy!)  
 
 ---
 
-## Keep the Secret
+## Post-Con Thank You
 
-Share this Knowledge repository. Let the cool kids know where you got your shiny new challenge coin… but don’t spoil the secret of **how** to get it.
+For all those that contributed your time, efforts, help, patience, questions, or any amount of energy to our cause, **thank you so much**.  
 
----
-
-## Want to Be Really Cool?
-
-If you’d like to help our hackerspace bring more stuff like this next year — and continue building the backbone of our workshop — you can drop some coin below. *(Only if you want to be really cool, you know.)*
-
-**Payment Options:**
-
-- Cash
-- Venmo: @Alchemmer (Last four digits are 2535, for verification)
+Right after the con, I lost my dearest uncle Richard Cheese. He left me an inheritance of about $1400. While that’s no fortune, it helped us recoup the materials cost for this year and then some. Funny how life works out.  
 
 ---
 
-## Transparent Pricing
+We’re already hard at work on:  
+- **Revision 3 of the challenge coin**  
+- More complex and interesting **SAO wall panels**  
+- New additions to the **Workshop Resources** page  
+- A few other goodies for next year  
 
-| Item                 | Unit Cost | Suggested Price |
-|----------------------|-----------|-----------------|
-| SAO Wall Panels      | $1.35     | $10.00          |
-| Electronic Coin Kit  | $4.50     | $20.00          |
+DefCon 34 will be here before we know it. In the meantime:  
+stay safe, enjoy the company of your friends and family, and never forget...
 
-*“Suggested Price” is what we could charge to help recoup R&D and production.*
+# Hack the Planet!
